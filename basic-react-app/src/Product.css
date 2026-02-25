@@ -1,0 +1,17 @@
+.Product{
+    color: white;
+    background-color: black;
+    border : 1px solid grey;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.Desciption{
+
+    background-color: aliceblue;
+    color: black;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin: 2rem 0 4rem 0;
+    
+}

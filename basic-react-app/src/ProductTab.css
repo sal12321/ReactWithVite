@@ -1,0 +1,12 @@
+.ProductTab{
+    border: 2px solid rgb(40, 47, 29);
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: ; */
+
+    /* gap : 2rem; */
+    min-width: 1000px;
+
+}
