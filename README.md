@@ -1,5 +1,4 @@
-Here is the **ready-to-use Markdown (README.md) code**.
-Copy this and paste it directly into your `README.md` file:
+
 
 ---
 
