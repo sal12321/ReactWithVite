@@ -8,10 +8,22 @@
 
 .Desciption{
 
-    background-color: aliceblue;
+    background-color:burlywood;
     color: black;
-    padding: 2rem;
+    padding: 7px;
     border-radius: 1rem;
-    margin: 2rem 0 4rem 0;
+    margin: 1rem;
+    height : auto;
+    width: 200px;
     
+    
+}
+
+.Price{
+    background-color:antiquewhite;
+    border-radius: 15px solid antiquewhite;
+    margin : 1rem;
+    padding: 0.7rem;
+    
+
 }
