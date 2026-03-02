@@ -2,6 +2,7 @@ import { useState } from 'react'
 
 import './App.css'
 import Counter from './Counter';
+import LikeBtn from './LikeBtn';
 
 function App() 
 {
@@ -14,6 +15,8 @@ function App()
     </h1>
 
       <Counter />
+      <hr />
+      <LikeBtn />
       </>
   )
 }

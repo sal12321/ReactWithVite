@@ -18,8 +18,10 @@ export default function Counter(){
 
   return (
     <>
-    <h3>Count = {count} </h3>
-    <button onClick={incCount} >HIT ME </button>
+     <button onClick={incCount} >HIT ME </button> 
+
+    <h3>{count} </h3>
+   
     </>
   )
 }
