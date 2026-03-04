@@ -1,11 +1,14 @@
-
-
----
-
-```md
 # 🚀 React + Vite Learning Repository
 
-This repository contains my practice code and experiments while learning **React** using **Vite** as the build tool.  
+
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![License](https://img.shields.io/badge/License-Educational-green)
+![Status](https://img.shields.io/badge/Status-Learning-orange)
+
+This repository contains my practice code and experiments while learning **React** using **Vite** as the build tool.
+
 It includes basic concepts, small components, hooks, and mini-projects created during my learning journey.
 
 ---
@@ -27,28 +30,27 @@ The main goals of this repository are:
 - React
 - Vite
 - JavaScript (ES6+)
-- HTML5 & CSS3
+- HTML5
+- CSS3
 
 ---
 
 ## 📁 Project Structure
 
 ```
-
 react-vite-learning/
 │
-├── public/          # Static assets
+├── public/              # Static assets
 ├── src/
-│   ├── components/  # Reusable components
-│   ├── pages/       # Page-level components (if any)
-│   ├── App.jsx      # Main app component
-│   ├── main.jsx     # Entry point
+│   ├── components/      # Reusable components
+│   ├── pages/           # Page-level components (if any)
+│   ├── App.jsx          # Main app component
+│   ├── main.jsx         # Entry point
 │
 ├── index.html
 ├── package.json
 └── README.md
-
-````
+```
 
 *(Structure may change as learning progresses.)*
 
@@ -60,7 +62,7 @@ react-vite-learning/
 
 ```bash
 git clone https://github.com/your-username/react-vite-learning.git
-````
+```
 
 ### 2️⃣ Navigate to Project Folder
 
@@ -82,6 +84,7 @@ npm run dev
 
 Open in browser:
 
+
 ```
 http://localhost:5173
 ```
@@ -90,15 +93,15 @@ http://localhost:5173
 
 ## 📚 Topics Covered
 
-* JSX
-* Components
-* Props
-* State
-* Event Handling
-* Hooks (useState, useEffect, etc.)
-* Conditional Rendering
-* Forms
-* Basic Routing (if added)
+- JSX
+- Components
+- Props
+- State
+- Event Handling
+- Hooks (`useState`, `useEffect`, etc.)
+- Conditional Rendering
+- Forms
+- Basic Routing (if added)
 
 ---
 
@@ -106,11 +109,11 @@ http://localhost:5173
 
 Some small projects may include:
 
-* Counter App
-* To-Do List
-* Weather App
-* API Fetching Demo
-* Form Validation
+- Counter App
+- To-Do List
+- Weather App
+- API Fetching Demo
+- Form Validation
 
 ---
 
@@ -118,14 +121,13 @@ Some small projects may include:
 
 This repository is continuously updated as I learn new React concepts.
 
-Beginner → Intermediate → Advanced
+**Beginner → Intermediate → Advanced**
 
 ---
 
 ## 🤝 Contributing
 
-This is a personal learning repository.
-Suggestions are welcome.
+This is a personal learning repository. Suggestions are welcome.
 
 Steps:
 
@@ -144,19 +146,11 @@ This project is for educational purposes.
 
 ## 👤 Author
 
-**Aaqib**
+**Aaqib**  
 BTech Student | Learning Frontend & Backend Development
 
-```
+## 📊 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sal12321&show_icons=true&theme=tokyonight)
 
-If you want, I can now:
-
-- Customize this with your real GitHub username  
-- Add shields/badges  
-- Make it resume-ready  
-- Optimize it for recruiters  
-
-Just tell me.
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sal12321&layout=compact)
